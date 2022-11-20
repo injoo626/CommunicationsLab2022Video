@@ -10,7 +10,7 @@ This project sheds light on the laundry theft incidents on campus through a fict
 ## Process ##
 ### Phase 1: Script ###
 After we settled with the idea of laundry theft incident and the interview format, Rasa and I worked on the script. We wrote one long script that include all characters' lines and their order as they will be edited in the video and three sub-scripts for each character. Making sub-scripts were helpful as each character's interview was shot separately.   
-<img src="Screen Shot 2022-11-20 at 11.07.58 PM.png" width="700"/> 
+<img src="Screen Shot 2022-11-20 at 11.07.58 PM.png" width="1000"/> 
 
 
 ### Phase 2: Filming and Editing ### 
