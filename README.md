@@ -1,6 +1,7 @@
 # The Whereabouts of The Missing ***** #
 ## Project Description ##
 Have you ever lost a piece of your favorite clothing in NYUAD laundry rooms? 
+
 It could be your favorite cozy sweatshirt, soft pair of socks, or sometimes... your freshly bought underwear...?
 
 This project sheds light on the laundry theft incidents on campus through a fictional story revolving around three characters: victim, suspect, and a clueless cat lover who accidently became a part of the wrong interview. Interestingly, the audience never gets to know what actually happened in the laundry room; they only have to guess the story based on two completely different point of views. Did Chad really steal Mariette's underwear? Or maybe is Mariette accusing an innocent person and ruining his social reputation? 
@@ -9,6 +10,8 @@ This project sheds light on the laundry theft incidents on campus through a fict
 ## Process ##
 ### Phase 1: Script ###
 After we settled with the idea of laundry theft incident and the interview format, Rasa and I worked on the script. We wrote one long script that include all characters' lines and their order as they will be edited in the video and three sub-scripts for each character. Making sub-scripts were helpful as each character's interview was shot separately.   
+<img src="images/documentation1.JPG" width="300"/> <img src="images/documentation2.JPG" width="300"/> 
+
 
 ### Phase 2: Filming and Editing ### 
 I was in charge of filming and editing the video. Our project was filmed with BlackaMagic Poket Camera with 12-35mm lens. The sound was separately recorded with my iPhone voice recorder which did a fairly good job of capturing clear sounds. The footages were editted with Davinci Resolve. 
